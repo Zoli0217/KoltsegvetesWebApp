@@ -22,13 +22,12 @@
             </div>
             <div class="form-group">
                 <label asp-for="Kategoria.Tipus" class="control-label"></label>
-                <input asp-for="Kategoria.Tipus" class="form-control" />
+                <select asp-for="Kategoria.Tipus" class="form-control">
+                    <option value="">-- Válasszon --</option>
+                    <option value="Bevétel">Bevétel</option>
+                    <option value="Kiadás">Kiadás</option>
+                </select>
                 <span asp-validation-for="Kategoria.Tipus" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="Kategoria.Tranzakciok" class="control-label"></label>
-                <input asp-for="Kategoria.Tranzakciok" class="form-control" />
-                <span asp-validation-for="Kategoria.Tranzakciok" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <input type="submit" value="Save" class="btn btn-primary" />

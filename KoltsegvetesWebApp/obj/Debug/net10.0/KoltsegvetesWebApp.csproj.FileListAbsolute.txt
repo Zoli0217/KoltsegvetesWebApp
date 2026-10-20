@@ -212,3 +212,4 @@ D:\Zoli\13.F\Backend\KoltsegvetesWebApp\KoltsegvetesWebApp\obj\Debug\net10.0\Kol
 D:\Zoli\13.F\Backend\KoltsegvetesWebApp\KoltsegvetesWebApp\obj\Debug\net10.0\KoltsegvetesWebApp.genruntimeconfig.cache
 D:\Zoli\13.F\Backend\KoltsegvetesWebApp\KoltsegvetesWebApp\obj\Debug\net10.0\ref\KoltsegvetesWebApp.dll
 D:\Zoli\13.F\Backend\KoltsegvetesWebApp\KoltsegvetesWebApp\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\Zoli\13.F\Backend\KoltsegvetesWebApp\KoltsegvetesWebApp\obj\Debug\net10.0\KoltsegvetesWebApp.sourcelink.json

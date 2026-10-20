@@ -1,0 +1,57 @@
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.RazorPages;
+using Microsoft.AspNetCore.Mvc.Rendering;
+using Microsoft.EntityFrameworkCore;
+using KoltsegvetesWebApp.Models;
+using KoltsegvetesWebApp.Data;
+using KoltsegvetesWebApp.DTOs;
+
+namespace KoltsegvetesWebApp.Pages.TranzakcioPages;
+
+public class CreateModel : PageModel
+{
+    private readonly KoltsegvetesDbContext _context;
+
+    public CreateModel(KoltsegvetesDbContext context)
+    {
+        _context = context;
+    }
+
+    public List<Kategoria> Kategoriak { get; set; }
+    public IEnumerable<SelectListItem> KategoriaSelectList { get; set; }
+
+    public IActionResult OnGet()
+    {
+        Kategoriak = _context.Kategoriak.ToList();
+        KategoriaSelectList = Kategoriak.Select(k => new SelectListItem
+        {
+            Value = k.Id.ToString(),
+            Text = k.Nev
+        });
+        return Page();
+    }
+
+    [BindProperty]
+    public TranzakcioPostDTO Tranzakcio { get; set; } = default!;
+
+    // To protect from overposting attacks, see https://aka.ms/RazorPagesCRUD.
+    public async Task<IActionResult> OnPostAsync()
+    {
+        if (!ModelState.IsValid)
+        {
+            return Page();
+        }
+        Tranzakcio ujTranzakcio = new Tranzakcio
+        {
+            Osszeg = Tranzakcio.Osszeg,
+            Datum = Tranzakcio.Datum,
+            Megjegyzes = Tranzakcio.Megjegyzes,
+            KategoriaId = Tranzakcio.KategoriaId
+        };
+
+        _context.Tranzakciok.Add(ujTranzakcio);
+        await _context.SaveChangesAsync();
+
+        return RedirectToPage("./Index");
+    }
+}

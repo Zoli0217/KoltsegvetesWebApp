@@ -3,28 +3,52 @@
   "WorkspaceRootPath": "D:\\Zoli\\13.F\\Backend\\KoltsegvetesWebApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{24E44E33-7138-4C5C-9A1F-F3E5A9165176}|KoltsegvetesWebApp\\KoltsegvetesWebApp.csproj|d:\\zoli\\13.f\\backend\\koltsegveteswebapp\\koltsegveteswebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24E44E33-7138-4C5C-9A1F-F3E5A9165176}|KoltsegvetesWebApp\\KoltsegvetesWebApp.csproj|solutionrelative:koltsegveteswebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3940055-BFD0-825C-E5AE-4F381CE06AFC}|KoltsegvetesWebApp\\KoltsegvetesWebApp.csproj|d:\\zoli\\13.f\\backend\\koltsegveteswebapp\\koltsegveteswebapp\\pages\\tranzakciopages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3940055-BFD0-825C-E5AE-4F381CE06AFC}|KoltsegvetesWebApp\\KoltsegvetesWebApp.csproj|solutionrelative:koltsegveteswebapp\\pages\\tranzakciopages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24E44E33-7138-4C5C-9A1F-F3E5A9165176}|KoltsegvetesWebApp\\KoltsegvetesWebApp.csproj|d:\\zoli\\13.f\\backend\\koltsegveteswebapp\\koltsegveteswebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{24E44E33-7138-4C5C-9A1F-F3E5A9165176}|KoltsegvetesWebApp\\KoltsegvetesWebApp.csproj|solutionrelative:koltsegveteswebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{D3940055-BFD0-825C-E5AE-4F381CE06AFC}|KoltsegvetesWebApp\\KoltsegvetesWebApp.csproj|d:\\zoli\\13.f\\backend\\koltsegveteswebapp\\koltsegveteswebapp\\pages\\tranzakciopages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3940055-BFD0-825C-E5AE-4F381CE06AFC}|KoltsegvetesWebApp\\KoltsegvetesWebApp.csproj|solutionrelative:koltsegveteswebapp\\pages\\tranzakciopages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24E44E33-7138-4C5C-9A1F-F3E5A9165176}|KoltsegvetesWebApp\\KoltsegvetesWebApp.csproj|d:\\zoli\\13.f\\backend\\koltsegveteswebapp\\koltsegveteswebapp\\data\\koltsegvetesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24E44E33-7138-4C5C-9A1F-F3E5A9165176}|KoltsegvetesWebApp\\KoltsegvetesWebApp.csproj|solutionrelative:koltsegveteswebapp\\data\\koltsegvetesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3940055-BFD0-825C-E5AE-4F381CE06AFC}|KoltsegvetesWebApp\\KoltsegvetesWebApp.csproj|d:\\zoli\\13.f\\backend\\koltsegveteswebapp\\koltsegveteswebapp\\dtos\\tranzakciopostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3940055-BFD0-825C-E5AE-4F381CE06AFC}|KoltsegvetesWebApp\\KoltsegvetesWebApp.csproj|solutionrelative:koltsegveteswebapp\\dtos\\tranzakciopostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24E44E33-7138-4C5C-9A1F-F3E5A9165176}|KoltsegvetesWebApp\\KoltsegvetesWebApp.csproj|d:\\zoli\\13.f\\backend\\koltsegveteswebapp\\koltsegveteswebapp\\models\\tranzakcio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24E44E33-7138-4C5C-9A1F-F3E5A9165176}|KoltsegvetesWebApp\\KoltsegvetesWebApp.csproj|solutionrelative:koltsegveteswebapp\\models\\tranzakcio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3940055-BFD0-825C-E5AE-4F381CE06AFC}|KoltsegvetesWebApp\\KoltsegvetesWebApp.csproj|d:\\zoli\\13.f\\backend\\koltsegveteswebapp\\koltsegveteswebapp\\pages\\kategoriapages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3940055-BFD0-825C-E5AE-4F381CE06AFC}|KoltsegvetesWebApp\\KoltsegvetesWebApp.csproj|solutionrelative:koltsegveteswebapp\\pages\\kategoriapages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24E44E33-7138-4C5C-9A1F-F3E5A9165176}|KoltsegvetesWebApp\\KoltsegvetesWebApp.csproj|d:\\zoli\\13.f\\backend\\koltsegveteswebapp\\koltsegveteswebapp\\models\\kategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24E44E33-7138-4C5C-9A1F-F3E5A9165176}|KoltsegvetesWebApp\\KoltsegvetesWebApp.csproj|solutionrelative:koltsegveteswebapp\\models\\kategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3940055-BFD0-825C-E5AE-4F381CE06AFC}|KoltsegvetesWebApp\\KoltsegvetesWebApp.csproj|d:\\zoli\\13.f\\backend\\koltsegveteswebapp\\koltsegveteswebapp\\pages\\kategoriapages\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3940055-BFD0-825C-E5AE-4F381CE06AFC}|KoltsegvetesWebApp\\KoltsegvetesWebApp.csproj|solutionrelative:koltsegveteswebapp\\pages\\kategoriapages\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24E44E33-7138-4C5C-9A1F-F3E5A9165176}|KoltsegvetesWebApp\\KoltsegvetesWebApp.csproj|d:\\zoli\\13.f\\backend\\koltsegveteswebapp\\koltsegveteswebapp\\koltsegveteswebapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{24E44E33-7138-4C5C-9A1F-F3E5A9165176}|KoltsegvetesWebApp\\KoltsegvetesWebApp.csproj|solutionrelative:koltsegveteswebapp\\koltsegveteswebapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{D3940055-BFD0-825C-E5AE-4F381CE06AFC}|KoltsegvetesWebApp\\KoltsegvetesWebApp.csproj|d:\\zoli\\13.f\\backend\\koltsegveteswebapp\\koltsegveteswebapp\\pages\\kategoriapages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3940055-BFD0-825C-E5AE-4F381CE06AFC}|KoltsegvetesWebApp\\KoltsegvetesWebApp.csproj|solutionrelative:koltsegveteswebapp\\pages\\kategoriapages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3940055-BFD0-825C-E5AE-4F381CE06AFC}|KoltsegvetesWebApp\\KoltsegvetesWebApp.csproj|d:\\zoli\\13.f\\backend\\koltsegveteswebapp\\koltsegveteswebapp\\pages\\kategoriapages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3940055-BFD0-825C-E5AE-4F381CE06AFC}|KoltsegvetesWebApp\\KoltsegvetesWebApp.csproj|solutionrelative:koltsegveteswebapp\\pages\\kategoriapages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3940055-BFD0-825C-E5AE-4F381CE06AFC}|KoltsegvetesWebApp\\KoltsegvetesWebApp.csproj|d:\\zoli\\13.f\\backend\\koltsegveteswebapp\\koltsegveteswebapp\\dtos\\kategoriaeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3940055-BFD0-825C-E5AE-4F381CE06AFC}|KoltsegvetesWebApp\\KoltsegvetesWebApp.csproj|solutionrelative:koltsegveteswebapp\\dtos\\kategoriaeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3940055-BFD0-825C-E5AE-4F381CE06AFC}|KoltsegvetesWebApp\\KoltsegvetesWebApp.csproj|d:\\zoli\\13.f\\backend\\koltsegveteswebapp\\koltsegveteswebapp\\dtos\\kategoriapostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3940055-BFD0-825C-E5AE-4F381CE06AFC}|KoltsegvetesWebApp\\KoltsegvetesWebApp.csproj|solutionrelative:koltsegveteswebapp\\dtos\\kategoriapostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3940055-BFD0-825C-E5AE-4F381CE06AFC}|KoltsegvetesWebApp\\KoltsegvetesWebApp.csproj|d:\\zoli\\13.f\\backend\\koltsegveteswebapp\\koltsegveteswebapp\\pages\\kategoriapages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3940055-BFD0-825C-E5AE-4F381CE06AFC}|KoltsegvetesWebApp\\KoltsegvetesWebApp.csproj|solutionrelative:koltsegveteswebapp\\pages\\kategoriapages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3940055-BFD0-825C-E5AE-4F381CE06AFC}|KoltsegvetesWebApp\\KoltsegvetesWebApp.csproj|d:\\zoli\\13.f\\backend\\koltsegveteswebapp\\koltsegveteswebapp\\pages\\kategoriapages\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3940055-BFD0-825C-E5AE-4F381CE06AFC}|KoltsegvetesWebApp\\KoltsegvetesWebApp.csproj|solutionrelative:koltsegveteswebapp\\pages\\kategoriapages\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3940055-BFD0-825C-E5AE-4F381CE06AFC}|KoltsegvetesWebApp\\KoltsegvetesWebApp.csproj|d:\\zoli\\13.f\\backend\\koltsegveteswebapp\\koltsegveteswebapp\\models\\kategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3940055-BFD0-825C-E5AE-4F381CE06AFC}|KoltsegvetesWebApp\\KoltsegvetesWebApp.csproj|solutionrelative:koltsegveteswebapp\\models\\kategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,80 +70,158 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Zoli\\13.F\\Backend\\KoltsegvetesWebApp\\KoltsegvetesWebApp\\Program.cs",
-              "RelativeDocumentMoniker": "KoltsegvetesWebApp\\Program.cs",
-              "ToolTip": "D:\\Zoli\\13.F\\Backend\\KoltsegvetesWebApp\\KoltsegvetesWebApp\\Program.cs",
-              "RelativeToolTip": "KoltsegvetesWebApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAACPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-19T16:04:24.781Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "KoltsegvetesDbContext.cs",
-              "DocumentMoniker": "D:\\Zoli\\13.F\\Backend\\KoltsegvetesWebApp\\KoltsegvetesWebApp\\Data\\KoltsegvetesDbContext.cs",
-              "RelativeDocumentMoniker": "KoltsegvetesWebApp\\Data\\KoltsegvetesDbContext.cs",
-              "ToolTip": "D:\\Zoli\\13.F\\Backend\\KoltsegvetesWebApp\\KoltsegvetesWebApp\\Data\\KoltsegvetesDbContext.cs",
-              "RelativeToolTip": "KoltsegvetesWebApp\\Data\\KoltsegvetesDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAtAAAAAAAAAA==",
+              "Title": "TranzakcioPostDTO.cs",
+              "DocumentMoniker": "D:\\Zoli\\13.F\\Backend\\KoltsegvetesWebApp\\KoltsegvetesWebApp\\DTOs\\TranzakcioPostDTO.cs",
+              "RelativeDocumentMoniker": "KoltsegvetesWebApp\\DTOs\\TranzakcioPostDTO.cs",
+              "ToolTip": "D:\\Zoli\\13.F\\Backend\\KoltsegvetesWebApp\\KoltsegvetesWebApp\\DTOs\\TranzakcioPostDTO.cs",
+              "RelativeToolTip": "KoltsegvetesWebApp\\DTOs\\TranzakcioPostDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-19T15:59:00.006Z",
+              "WhenOpened": "2026-10-20T16:55:28.994Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Tranzakcio.cs",
-              "DocumentMoniker": "D:\\Zoli\\13.F\\Backend\\KoltsegvetesWebApp\\KoltsegvetesWebApp\\Models\\Tranzakcio.cs",
-              "RelativeDocumentMoniker": "KoltsegvetesWebApp\\Models\\Tranzakcio.cs",
-              "ToolTip": "D:\\Zoli\\13.F\\Backend\\KoltsegvetesWebApp\\KoltsegvetesWebApp\\Models\\Tranzakcio.cs",
-              "RelativeToolTip": "KoltsegvetesWebApp\\Models\\Tranzakcio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\Zoli\\13.F\\Backend\\KoltsegvetesWebApp\\KoltsegvetesWebApp\\Pages\\TranzakcioPages\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "KoltsegvetesWebApp\\Pages\\TranzakcioPages\\Create.cshtml.cs",
+              "ToolTip": "D:\\Zoli\\13.F\\Backend\\KoltsegvetesWebApp\\KoltsegvetesWebApp\\Pages\\TranzakcioPages\\Create.cshtml.cs",
+              "RelativeToolTip": "KoltsegvetesWebApp\\Pages\\TranzakcioPages\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-19T15:46:40.643Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Kategoria.cs",
-              "DocumentMoniker": "D:\\Zoli\\13.F\\Backend\\KoltsegvetesWebApp\\KoltsegvetesWebApp\\Models\\Kategoria.cs",
-              "RelativeDocumentMoniker": "KoltsegvetesWebApp\\Models\\Kategoria.cs",
-              "ToolTip": "D:\\Zoli\\13.F\\Backend\\KoltsegvetesWebApp\\KoltsegvetesWebApp\\Models\\Kategoria.cs",
-              "RelativeToolTip": "KoltsegvetesWebApp\\Models\\Kategoria.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-19T15:40:02.107Z",
+              "WhenOpened": "2026-10-20T16:50:18.774Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Zoli\\13.F\\Backend\\KoltsegvetesWebApp\\KoltsegvetesWebApp\\appsettings.json",
-              "RelativeDocumentMoniker": "KoltsegvetesWebApp\\appsettings.json",
-              "ToolTip": "D:\\Zoli\\13.F\\Backend\\KoltsegvetesWebApp\\KoltsegvetesWebApp\\appsettings.json",
-              "RelativeToolTip": "KoltsegvetesWebApp\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-10-19T15:37:44.151Z",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Zoli\\13.F\\Backend\\KoltsegvetesWebApp\\KoltsegvetesWebApp\\Pages\\TranzakcioPages\\Create.cshtml",
+              "RelativeDocumentMoniker": "KoltsegvetesWebApp\\Pages\\TranzakcioPages\\Create.cshtml",
+              "ToolTip": "D:\\Zoli\\13.F\\Backend\\KoltsegvetesWebApp\\KoltsegvetesWebApp\\Pages\\TranzakcioPages\\Create.cshtml",
+              "RelativeToolTip": "KoltsegvetesWebApp\\Pages\\TranzakcioPages\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-20T16:48:27.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "D:\\Zoli\\13.F\\Backend\\KoltsegvetesWebApp\\KoltsegvetesWebApp\\Pages\\KategoriaPages\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "KoltsegvetesWebApp\\Pages\\KategoriaPages\\Edit.cshtml.cs",
+              "ToolTip": "D:\\Zoli\\13.F\\Backend\\KoltsegvetesWebApp\\KoltsegvetesWebApp\\Pages\\KategoriaPages\\Edit.cshtml.cs",
+              "RelativeToolTip": "KoltsegvetesWebApp\\Pages\\KategoriaPages\\Edit.cshtml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwDcAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T16:41:30.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KategoriaEditDTO.cs",
+              "DocumentMoniker": "D:\\Zoli\\13.F\\Backend\\KoltsegvetesWebApp\\KoltsegvetesWebApp\\DTOs\\KategoriaEditDTO.cs",
+              "RelativeDocumentMoniker": "KoltsegvetesWebApp\\DTOs\\KategoriaEditDTO.cs",
+              "ToolTip": "D:\\Zoli\\13.F\\Backend\\KoltsegvetesWebApp\\KoltsegvetesWebApp\\DTOs\\KategoriaEditDTO.cs",
+              "RelativeToolTip": "KoltsegvetesWebApp\\DTOs\\KategoriaEditDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T16:40:03.867Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "KoltsegvetesWebApp",
-              "DocumentMoniker": "D:\\Zoli\\13.F\\Backend\\KoltsegvetesWebApp\\KoltsegvetesWebApp\\KoltsegvetesWebApp.csproj",
-              "RelativeDocumentMoniker": "KoltsegvetesWebApp\\KoltsegvetesWebApp.csproj",
-              "ToolTip": "D:\\Zoli\\13.F\\Backend\\KoltsegvetesWebApp\\KoltsegvetesWebApp\\KoltsegvetesWebApp.csproj",
-              "RelativeToolTip": "KoltsegvetesWebApp\\KoltsegvetesWebApp.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-10-19T15:37:08.301Z",
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Zoli\\13.F\\Backend\\KoltsegvetesWebApp\\KoltsegvetesWebApp\\Pages\\KategoriaPages\\Edit.cshtml",
+              "RelativeDocumentMoniker": "KoltsegvetesWebApp\\Pages\\KategoriaPages\\Edit.cshtml",
+              "ToolTip": "D:\\Zoli\\13.F\\Backend\\KoltsegvetesWebApp\\KoltsegvetesWebApp\\Pages\\KategoriaPages\\Edit.cshtml",
+              "RelativeToolTip": "KoltsegvetesWebApp\\Pages\\KategoriaPages\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-20T16:39:39.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Zoli\\13.F\\Backend\\KoltsegvetesWebApp\\KoltsegvetesWebApp\\Pages\\KategoriaPages\\Details.cshtml",
+              "RelativeDocumentMoniker": "KoltsegvetesWebApp\\Pages\\KategoriaPages\\Details.cshtml",
+              "ToolTip": "D:\\Zoli\\13.F\\Backend\\KoltsegvetesWebApp\\KoltsegvetesWebApp\\Pages\\KategoriaPages\\Details.cshtml",
+              "RelativeToolTip": "KoltsegvetesWebApp\\Pages\\KategoriaPages\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-20T16:39:28.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\Zoli\\13.F\\Backend\\KoltsegvetesWebApp\\KoltsegvetesWebApp\\Pages\\KategoriaPages\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "KoltsegvetesWebApp\\Pages\\KategoriaPages\\Create.cshtml.cs",
+              "ToolTip": "D:\\Zoli\\13.F\\Backend\\KoltsegvetesWebApp\\KoltsegvetesWebApp\\Pages\\KategoriaPages\\Create.cshtml.cs",
+              "RelativeToolTip": "KoltsegvetesWebApp\\Pages\\KategoriaPages\\Create.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwCcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T16:34:19.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KategoriaPostDTO.cs",
+              "DocumentMoniker": "D:\\Zoli\\13.F\\Backend\\KoltsegvetesWebApp\\KoltsegvetesWebApp\\DTOs\\KategoriaPostDTO.cs",
+              "RelativeDocumentMoniker": "KoltsegvetesWebApp\\DTOs\\KategoriaPostDTO.cs",
+              "ToolTip": "D:\\Zoli\\13.F\\Backend\\KoltsegvetesWebApp\\KoltsegvetesWebApp\\DTOs\\KategoriaPostDTO.cs",
+              "RelativeToolTip": "KoltsegvetesWebApp\\DTOs\\KategoriaPostDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T16:36:37.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Kategoria.cs",
+              "DocumentMoniker": "D:\\Zoli\\13.F\\Backend\\KoltsegvetesWebApp\\KoltsegvetesWebApp\\Models\\Kategoria.cs",
+              "RelativeDocumentMoniker": "KoltsegvetesWebApp\\Models\\Kategoria.cs",
+              "ToolTip": "D:\\Zoli\\13.F\\Backend\\KoltsegvetesWebApp\\KoltsegvetesWebApp\\Models\\Kategoria.cs",
+              "RelativeToolTip": "KoltsegvetesWebApp\\Models\\Kategoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T16:33:45.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Zoli\\13.F\\Backend\\KoltsegvetesWebApp\\KoltsegvetesWebApp\\Pages\\KategoriaPages\\Create.cshtml",
+              "RelativeDocumentMoniker": "KoltsegvetesWebApp\\Pages\\KategoriaPages\\Create.cshtml",
+              "ToolTip": "D:\\Zoli\\13.F\\Backend\\KoltsegvetesWebApp\\KoltsegvetesWebApp\\Pages\\KategoriaPages\\Create.cshtml",
+              "RelativeToolTip": "KoltsegvetesWebApp\\Pages\\KategoriaPages\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-20T16:28:20.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Zoli\\13.F\\Backend\\KoltsegvetesWebApp\\KoltsegvetesWebApp\\Pages\\KategoriaPages\\Index.cshtml",
+              "RelativeDocumentMoniker": "KoltsegvetesWebApp\\Pages\\KategoriaPages\\Index.cshtml",
+              "ToolTip": "D:\\Zoli\\13.F\\Backend\\KoltsegvetesWebApp\\KoltsegvetesWebApp\\Pages\\KategoriaPages\\Index.cshtml",
+              "RelativeToolTip": "KoltsegvetesWebApp\\Pages\\KategoriaPages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-20T16:27:12.055Z",
               "EditorCaption": ""
             }
           ]

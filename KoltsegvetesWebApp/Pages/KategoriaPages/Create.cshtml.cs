@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
 using KoltsegvetesWebApp.Models;
 using KoltsegvetesWebApp.Data;
+using KoltsegvetesWebApp.DTOs;
 
 namespace KoltsegvetesWebApp.Pages.KategoriaPages;
 
@@ -21,7 +22,7 @@ public class CreateModel : PageModel
     }
 
     [BindProperty]
-    public Kategoria Kategoria { get; set; } = default!;
+    public KategoriaPostDTO Kategoria { get; set; } = default!;
 
     // To protect from overposting attacks, see https://aka.ms/RazorPagesCRUD.
     public async Task<IActionResult> OnPostAsync()
@@ -30,8 +31,13 @@ public class CreateModel : PageModel
         {
             return Page();
         }
+        var ujKategoria = new Kategoria
+        {
+            Nev = Kategoria.Nev,
+            Tipus = Enum.Parse<Kategoria.KategoriaTipus>(Kategoria.Tipus)
+        };
 
-        _context.Kategoriak.Add(Kategoria);
+        _context.Kategoriak.Add(ujKategoria);
         await _context.SaveChangesAsync();
 
         return RedirectToPage("./Index");

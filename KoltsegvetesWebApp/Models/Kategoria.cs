@@ -16,8 +16,8 @@ namespace KoltsegvetesWebApp.Models
 
         public enum KategoriaTipus
         {
-            Bevetel,
-            Kiadas
+            Bevétel,
+            Kiadás
         }
     }
 }

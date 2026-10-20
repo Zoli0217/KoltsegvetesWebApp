@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
 using KoltsegvetesWebApp.Models;
 using KoltsegvetesWebApp.Data;
+using KoltsegvetesWebApp.DTOs;
 
 namespace KoltsegvetesWebApp.Pages.KategoriaPages;
 
@@ -16,7 +17,7 @@ public class EditModel : PageModel
     }
 
     [BindProperty]
-    public Kategoria Kategoria { get; set; } = default!;
+    public KategoriaEditDTO Kategoria { get; set; } = default!;
 
     public async Task<IActionResult> OnGetAsync(int? id)
     {
@@ -30,7 +31,12 @@ public class EditModel : PageModel
         {
             return NotFound();
         }
-        Kategoria = kategoria;
+        Kategoria = new KategoriaEditDTO
+        {
+            Id = kategoria.Id,
+            Nev = kategoria.Nev,
+            Tipus = kategoria.Tipus.ToString()
+        };
         return Page();
     }
 
@@ -43,7 +49,11 @@ public class EditModel : PageModel
             return Page();
         }
 
-        _context.Attach(Kategoria).State = EntityState.Modified;
+        Kategoria modositandoKategoria = await _context.Kategoriak.FindAsync(Kategoria.Id);
+        modositandoKategoria.Nev = Kategoria.Nev;
+        modositandoKategoria.Tipus = Enum.Parse<Kategoria.KategoriaTipus>(Kategoria.Tipus);
+
+        _context.Attach(modositandoKategoria).State = EntityState.Modified;
 
         try
         {
